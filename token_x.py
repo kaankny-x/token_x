@@ -1,8 +1,8 @@
-//dont steal code 
-//made by kaankny_x
-//youtube : kaankny_x
-//instagram : kaankny_x
-//follow me in everywhere :P
+#dont steal code 
+#made by kaankny_x
+#youtube : kaankny_x
+#instagram : kaankny_x
+#follow me in everywhere :P
 
 import random
 import time

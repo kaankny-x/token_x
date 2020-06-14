@@ -5,6 +5,6 @@ Instagram : KaanKny_x
 
 ------------------------------
 
-Follow Me In Everywhere
+Follow Me In Everywhere :P
 
 ------------------------------
